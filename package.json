@@ -1,0 +1,22 @@
+{
+  "name": "mep-utilities.clear",
+  "version": "1.0.0",
+  "description": "Clear Utility",
+  "main": "stylesheets/_utility-clear.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "name": "utility-clear",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/utilities.clear.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
